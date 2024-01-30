@@ -4,4 +4,6 @@
 * [Michelle Bautista - michellebau](./michellebau.md)
 * [Arqam Usman Ali - aa358](./aa358.md)
 * [Kevin Chavez](./KevinChavez.md)
+* [Nickole Carranza - nc427](./nc427.md)
 * [SamirHall](./ska46.md)
+ 
